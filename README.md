@@ -3,6 +3,11 @@
 # 静默活体检测 (Silent-Face-Anti-Spoofing)   
 该项目为[小视科技](https://www.minivision.cn/)的静默活体检测项目,您可以扫描下方的二维码获取安卓端APK,体验静默活体的检测效果.   
 <img src="https://github.com/minivision-ai/Silent-Face-Anti-Spoofing/blob/master/images/静默活体APK.jpeg" width="200" height="200" align=center />  
+
+## Overview
+
+这个仓库包含了从位于[Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)的原始仓库中克隆的内容。该项目的目的是通过提供高效且稳健的反欺诈解决方案来解决面部欺诈攻击的重要问题。
+
 ## 更新  
 **2020-07-30:** 开源caffe模型，分享工业级静默活体检测算法技术解析直播视频以及相关文件。
 ## 简介
